@@ -22,3 +22,10 @@ Configure Cisco switch port security to allow only authorized devices.
 ## Result
 
 Successfully completed the Cisco Packet Tracer activity with a score of 100%.
+## Topology
+
+![Topology](lab01-topology.png)
+
+## Results
+
+![Results](lab01-results.png)
