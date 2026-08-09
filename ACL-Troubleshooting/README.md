@@ -49,19 +49,24 @@ The verification process included:
 - Cisco IOS CLI
 
 ---
-
 ## Screenshots
 
-The screenshots included with this project demonstrate:
 
-- Network topology
-- ACL verification using Cisco IOS
-- Connectivity testing after troubleshooting
+### Network Topology
+
+![Network Topology](network-topology.png)
+
+### ACL Verification
+
+![ACL Verification](acl-verification.png)
+
+### Connectivity Testing
+
+![Connectivity Testing](connectivity-testing.png)
 
 ---
 
 ## Learning Outcomes
-
 Through this project, I strengthened my ability to:
 
 - Configure and troubleshoot Extended IPv4 ACLs.
