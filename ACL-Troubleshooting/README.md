@@ -37,13 +37,13 @@ The network contained incorrect Extended IPv4 Access Control List (ACL) configur
 
 ## Verification
 
-The verification process included:
+The final configuration was verified by:
 
-- Network topology validation.
-- ACL verification using Cisco IOS commands.
-- Router interface verification.
-- Successful connectivity testing after troubleshooting.
-
+- Reviewing the configured ACLs using Cisco IOS commands.
+- Confirming that the ACLs were applied to the intended router interfaces and directions.
+- Testing permitted and denied traffic using Ping, HTTP, and FTP.
+- Verifying successful connectivity for traffic that should remain allowed.
+- Confirming that restricted traffic was blocked according to the security requirements
 ---
 
 ## Tools
