@@ -4,7 +4,10 @@
 
 This project demonstrates troubleshooting and correcting Extended IPv4 Access Control Lists (ACLs) in Cisco Packet Tracer.
 
-The objective was to identify incorrect ACL configurations, apply the correct ACL rules, verify interface directions, and ensure that only the required traffic was blocked while all other network traffic remained allowed.
+## Project Scenario
+
+
+The network contained incorrect Extended IPv4 Access Control List (ACL) configurations. My task was to troubleshoot the router configuration, identify incorrect ACL rules and interface directions, apply the correct ACLs, and verify that only the required traffic was blocked while all other legitimate traffic was allowed.
 
 ---
 
